@@ -32,5 +32,3 @@ The dataset used for this project contains sales data for a specified period, in
 The Sales Analysis Excel Dashboard project provides a powerful tool for analyzing sales performance and making data-driven decisions. By leveraging pivot tables, charts, and interactive features within Excel, stakeholders can gain valuable insights into sales trends, customer behavior, and product performance. We hope this dashboard enhances your understanding of sales dynamics and supports strategic decision-making within your organization.
 
 ---
-
-**Note:** This README serves as a guide for using the Sales Analysis Excel Dashboard project. For detailed instructions on setting up and using specific components of the dashboard, refer to the accompanying documentation or reach out to the project team for assistance.
